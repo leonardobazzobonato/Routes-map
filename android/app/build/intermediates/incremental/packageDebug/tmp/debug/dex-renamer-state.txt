@@ -1,0 +1,4 @@
+#Wed Apr 10 16:55:06 BRT 2019
+base.0=/home/bernardo/Documents/Projects/ScriptUber/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
